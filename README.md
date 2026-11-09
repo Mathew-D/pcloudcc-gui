@@ -102,4 +102,4 @@ the error. A forced termination or system crash cannot guarantee shutdown.
 
 ## License
 
-Same license as the [pCloudCC project](https://github.com/Mathew-D/pcloudcc-lneely).
+Same license as the [pCloudCC project](https://github.com/lneely/pcloudcc-lneely/).
